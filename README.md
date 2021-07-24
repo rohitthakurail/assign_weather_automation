@@ -1,1 +1,0 @@
-# assign_weather_automation
