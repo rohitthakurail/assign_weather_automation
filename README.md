@@ -14,6 +14,12 @@ Phase 3:
 1. Create a comparator that matches the temperature information from the UI in phase1 against the API response(ensure both are using the same temperature unit) in phase 2
 2. Build a variance logic(should be configurable) that returns a success if temperature difference is within a specified range, else return a matcher exception
 
+Environment Setup:
+
+Required Packages needs to be install for executing the project.
+1. requests (2.26.0)
+2. selenium (3.141.0)
+
 Assumption:
 1. User is providing the input in JSON format.
 2. User providing input through console.
