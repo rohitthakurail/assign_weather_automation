@@ -24,12 +24,12 @@ Assumption:
 7. Using only chrome browser.
 
 Implementation:
-Step 1: Take Input from User as JSON
-Step 2: Searched location for provided city on weather.com.
-Step 3: Read and stored the UI Temperature for the selected city.
-Step 4: Get the Temperature value of provided city from openweathermap API.
-Step 5: Getting Difference of the both temperature values.
-Step 6: Comparing the actual variance and allowed variance
-Step 7: if actual variance is in allowed variance range return True else return False
+1. Take Input from User as JSON
+2. Searched location for provided city on weather.com.
+3. Read and stored the UI Temperature for the selected city.
+4. Get the Temperature value of provided city from openweathermap API.
+5. Getting Difference of the both temperature values.
+6. Comparing the actual variance and allowed variance
+7. if actual variance is in allowed variance range return True else return False
 
 Note: Required Output will print in Console only. 
